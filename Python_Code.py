@@ -1,5 +1,4 @@
 import sys
-'''
 # Tower_of _Hanoi
 def Tower_of_Hanoi(n,start,end,middle):
 	if(n==1):
@@ -31,4 +30,4 @@ def Factorial(n):
 	return(n*Factorial(n-1))
 y=int(sys.argv[3])
 print(Factorial(y))
-'''
+
